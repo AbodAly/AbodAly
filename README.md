@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Abod's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbodAly&show_icons=true&theme=synthwave)](https://github.com/AbodAly?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbodAly&layout=compact&theme=synthwave)](https://github.com/AbodAly?tab=repositories)
+
+![](https://komarev.com/ghpvc/?username=AbodAly&color=blueviolet)
